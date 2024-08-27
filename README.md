@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/aya-yasser-95b169223/" target="_blank"><img src="https://img.shields.io/badge/-Aya%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/aya-yasser-frontend3122001" target="_blank"><img src="https://img.shields.io/badge/-Aya%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
